@@ -505,7 +505,7 @@ width: 100px;
   color: inherit;
   background-color: inherit;
 }
-@media (min-width:0px) and (max-width:900px) {
+@media (min-width:0px) and (max-width:1000px) {
    .navbar .navbar-brand__image img{
        display:none;
    }
